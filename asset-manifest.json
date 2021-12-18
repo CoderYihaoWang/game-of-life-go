@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/game-of-life-go/static/js/main.aa62aa75.chunk.js",
+    "main.js.map": "/game-of-life-go/static/js/main.aa62aa75.chunk.js.map",
+    "runtime-main.js": "/game-of-life-go/static/js/runtime-main.2ed51d3f.js",
+    "runtime-main.js.map": "/game-of-life-go/static/js/runtime-main.2ed51d3f.js.map",
+    "static/css/2.794d63ec.chunk.css": "/game-of-life-go/static/css/2.794d63ec.chunk.css",
+    "static/js/2.fa419ccd.chunk.js": "/game-of-life-go/static/js/2.fa419ccd.chunk.js",
+    "static/js/2.fa419ccd.chunk.js.map": "/game-of-life-go/static/js/2.fa419ccd.chunk.js.map",
+    "index.html": "/game-of-life-go/index.html",
+    "static/css/2.794d63ec.chunk.css.map": "/game-of-life-go/static/css/2.794d63ec.chunk.css.map",
+    "static/js/2.fa419ccd.chunk.js.LICENSE.txt": "/game-of-life-go/static/js/2.fa419ccd.chunk.js.LICENSE.txt",
+    "static/media/300.css": "/game-of-life-go/static/media/roboto-vietnamese-300-normal.af9afdc1.woff2",
+    "static/media/400.css": "/game-of-life-go/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/game-of-life-go/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
+    "static/media/700.css": "/game-of-life-go/static/media/roboto-vietnamese-700-normal.3096f18a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ed51d3f.js",
+    "static/css/2.794d63ec.chunk.css",
+    "static/js/2.fa419ccd.chunk.js",
+    "static/js/main.aa62aa75.chunk.js"
+  ]
+}
